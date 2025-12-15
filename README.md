@@ -55,8 +55,8 @@ The goal of this project is to classify steel surface images into one of six def
 ### Validation Accuracy Comparison
 | Model | Validation Accuracy |
 |------|---------------------|
-| CNN (from scratch) | ~78% |
-| ResNet18 (transfer learning) | ~80% |
+| CNN (from scratch) | ~77% |
+| ResNet18 (transfer learning) | ~83% |
 
 ### Confusion Matrix
 The confusion matrix highlights common misclassifications between visually similar defect types such as scratches and crazing.
