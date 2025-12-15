@@ -98,5 +98,5 @@ Key plots generated in this project include:
 ---
 
 ## Author
-**Parth**  
+**Parth Pardeshi**  
 B.Tech, IIT Guwahati
