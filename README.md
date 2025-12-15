@@ -40,13 +40,13 @@ The goal of this project is to classify steel surface images into one of six def
 ### 2. Baseline CNN
 - Designed a convolutional neural network from scratch using PyTorch
 - Applied domain-specific data augmentation
-- Achieved ~78% validation accuracy
+- Achieved ~77% validation accuracy
 
 ### 3. Transfer Learning (ResNet18)
 - Used a pretrained ResNet18 model
 - Modified the network for grayscale input and 6-class output
 - Trained only the classifier layers
-- Achieved ~80% validation accuracy
+- Achieved ~83% validation accuracy without fine-tuning deeper layers.
 
 ---
 
@@ -69,7 +69,7 @@ Key plots generated in this project include:
 - Validation Accuracy vs Epoch
 - Confusion Matrix
 
-(Plots are available in the `figures/` directory.)
+(Plots are available in the `Figures/` directory.)
 
 ---
 
