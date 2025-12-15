@@ -1,4 +1,4 @@
-# Industrial_Surface_Sefect_Classification
+# Industrial_Surface_Defect_Classification
 End-to-end computer vision pipeline for industrial steel surface defect classification using CNNs and transfer learning.
 # Industrial Surface Defect Classification using CNNs
 
