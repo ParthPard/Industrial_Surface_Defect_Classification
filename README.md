@@ -1,15 +1,16 @@
-# Industrial_Surface_Defect_Classification
-End-to-end computer vision pipeline for industrial steel surface defect classification using CNNs and transfer learning.
-# Industrial Surface Defect Classification using CNNs
+# Industrial Steel Surface Defect Classification
 
-This project focuses on classifying industrial steel surface defects using deep learning.  
-A complete computer vision pipeline was built using the NEU surface defect dataset, starting from raw XML annotations to model evaluation and analysis.
+End-to-end computer vision pipeline for industrial steel surface defect classification using CNNs and transfer learning.
 
 ---
 
-## Problem Statement
+## Overview
+
 Automated surface inspection is critical in manufacturing industries.  
-The goal of this project is to classify steel surface images into one of six defect categories using convolutional neural networks.
+This project focuses on classifying industrial steel surface defects using deep learning.
+
+A complete computer vision pipeline was built using the NEU surface defect dataset, starting from raw XML annotations to dataset preprocessing, model training, and evaluation across six defect categories.
+
 
 ---
 
